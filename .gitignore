@@ -1,0 +1,7 @@
+ca.pem
+consul.json
+certs/
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars

@@ -1,0 +1,4 @@
+hcs_virtual_network_name = "vnet-name"
+hcs_resource_group = "hcs-managed-resource-group-name"
+hcs_bootstrap_token = "bootstrap-token"
+web_app_domain = "hostname-only-dont-include-https"
